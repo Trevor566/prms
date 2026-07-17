@@ -80,6 +80,5 @@ http://localhost/prms/login.php
 ## Developer
 
 **Trevor Mbua Maringa**  
-Diploma in Information Technology — KCA University  
-Index Number: 40701100049  
+Diploma in Information Technology — KCA University   
 GitHub: [github.com/Trevor566](https://github.com/Trevor566)
